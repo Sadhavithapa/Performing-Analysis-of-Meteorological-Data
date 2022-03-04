@@ -7,7 +7,7 @@ The CSV file includes a hourly/daily summary for Szeged, Hungary area, between 2
 
 Data available in the hourly response:
 
- Markup : *time
+*time
 *summary
 *precipType
 *temperature
